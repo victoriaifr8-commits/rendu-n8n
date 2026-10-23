@@ -50,3 +50,18 @@ Trois skills Claude (fichier `SKILL.md` dans chaque dossier) :
 ## vidéo/
 
 Réservé à la vidéo de présentation du projet. Elle n'a pas encore été réalisée.
+
+---
+
+## Captures d'écran des workflows (n8n)
+
+Captures prises dans l'éditeur n8n (espace vicif.app.n8n.cloud).
+
+### Vicom - Chatbot support
+![Workflow Vicom - Chatbot support](workflow/capture-chatbot-support.jpg)
+
+### Vicom - Base de connaissances
+![Workflow Vicom - Base de connaissances](workflow/capture-base-de-connaissances.jpg)
+
+### Vicom - modifier_abonnement
+![Workflow Vicom - modifier_abonnement](workflow/capture-modifier-abonnement.jpg)

@@ -6,7 +6,7 @@ Rendu du projet **chatbot de support Vicom Agency**, construit avec **n8n** et *
 |---|---|
 | `workflow/` | Les 3 workflows n8n du chatbot (format `.workflow.ts`) et les résultats obtenus |
 | `skills/` | Les 3 skills Claude créées pour travailler sur le projet |
-| `vidéo/` | La vidéo de présentation (pas encore réalisée) |
+| `vidéo/` | La vidéo de présentation du projet (version allégée) |
 
 ---
 
@@ -49,7 +49,9 @@ Trois skills Claude (fichier `SKILL.md` dans chaque dossier) :
 
 ## vidéo/
 
-Réservé à la vidéo de présentation du projet. Elle n'a pas encore été réalisée.
+Contient `videon8n-leger.mp4` : la vidéo de présentation du projet (12 min 48), avec la démo du workflow dans n8n et les commandes principales de n8n CLI dans le terminal.
+
+C'est une **version allégée** de 20 Mo (image réduite à 640 × 374 pixels), car GitHub refuse les fichiers de plus de 25 Mo. La version d'origine pèse 162 Mo.
 
 ---
 

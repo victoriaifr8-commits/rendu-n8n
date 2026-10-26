@@ -6,7 +6,7 @@ Rendu du projet **chatbot de support Vicom Agency**, construit avec **n8n** et *
 |---|---|
 | `workflow/` | Les 3 workflows n8n du chatbot (format `.workflow.ts`) et les résultats obtenus |
 | `skills/` | Les 3 skills Claude créées pour travailler sur le projet |
-| `vidéo/` | La vidéo de présentation du projet (version allégée) |
+| `vidéo/` | La vidéo de présentation du projet (version allégée ici, version d'origine en téléchargement) |
 
 ---
 
@@ -49,9 +49,10 @@ Trois skills Claude (fichier `SKILL.md` dans chaque dossier) :
 
 ## vidéo/
 
-Contient `videon8n-leger.mp4` : la vidéo de présentation du projet (12 min 48), avec la démo du workflow dans n8n et les commandes principales de n8n CLI dans le terminal.
+La vidéo de présentation du projet dure 12 min 48. Elle montre la démo du workflow dans n8n et les commandes principales de n8n CLI dans le terminal.
 
-C'est une **version allégée** de 20 Mo (image réduite à 640 × 374 pixels), car GitHub refuse les fichiers de plus de 25 Mo. La version d'origine pèse 162 Mo.
+- **Version d'origine** (162 Mo, 1848 × 1080) : à télécharger dans les [Releases du dépôt](https://github.com/victoriaifr8-commits/rendu-n8n/releases/tag/video-v1), fichier `videon8n.mp4`.
+- **Version allégée** (20 Mo, 640 × 374 pixels) : le fichier `videon8n-leger.mp4` de ce dossier, qui se lit directement sur GitHub. Elle existe car GitHub refuse les fichiers de plus de 25 Mo dans un dossier.
 
 ---
 
